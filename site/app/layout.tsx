@@ -7,7 +7,7 @@ const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin", "lat
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin", "latin-ext"] });
 
 export const metadata: Metadata = {
-  title: "Dora 🚀 Uzay ve Gençlik",
+  title: "VC 🏴‍☠️ Tatlış Korsan",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
